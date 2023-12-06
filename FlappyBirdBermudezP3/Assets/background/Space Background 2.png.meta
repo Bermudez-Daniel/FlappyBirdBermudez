@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,7 +134,532 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Space Background 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86be1e208e0e27c47859f3b7aa0f70ef
+      internalID: -511186095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2a725a09854e047ab9f07582e3238f
+      internalID: -1614746795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d694ee9dee721744861a1bdb398f638
+      internalID: -516187105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db866c6be6de40f40abb6ec61a6c0876
+      internalID: -696996082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2a3b58b25077a46b846418ec915356
+      internalID: 738711913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201f9a8f3f398b4982be4a6dd84f7fb
+      internalID: 1308011123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5333ad1d89f478441a7e1b99421a2308
+      internalID: 178532096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fd9d6f88c02104daee61d4926d319c
+      internalID: -938416541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec02314041368644a372b3df900af11
+      internalID: 1693719982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8050d098c15a7ad4abef0ef54a428adb
+      internalID: -320047518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b936810527dd4d979ef2a4ed433a2
+      internalID: -162895161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581c2f416a7078049a70dd81f28a75a6
+      internalID: -55010491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81452308c0d00f24e9129595b68119f0
+      internalID: 486556313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc8e5664755f4442aa682c30614a9ee
+      internalID: 1587823831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925765737f7d1944b4550bfb4337aed
+      internalID: -1391411211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a55728734347f4eacb6d56f12bc66a
+      internalID: -748042609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af817ba4ec76234d9599df185160bf2
+      internalID: 1562630986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27c91110a87d445977ee1430a76b28
+      internalID: -1543875202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eaa9f7218d3d0438026e4c1037e48b
+      internalID: -2141145353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321fb6de7e1e1324380c23357a904954
+      internalID: -1516454048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2700aa3649b1cfc46841e47e7c9f7d22
+      internalID: 2055331463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11edf23563fe94f4bb9396e246c02e5e
+      internalID: 1160319776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268b84ae343b6d643b05871182c5a4b5
+      internalID: -2145449098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82f17eeec880d4d98f3c8603c7543f
+      internalID: -187875811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Background 2_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ba65b3f600354da474ff16e9bb2ce
+      internalID: -803265304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +670,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Space Background 2_0: -511186095
+      Space Background 2_1: -1614746795
+      Space Background 2_10: -162895161
+      Space Background 2_11: -55010491
+      Space Background 2_12: 486556313
+      Space Background 2_13: 1587823831
+      Space Background 2_14: -1391411211
+      Space Background 2_15: -748042609
+      Space Background 2_16: 1562630986
+      Space Background 2_17: -1543875202
+      Space Background 2_18: -2141145353
+      Space Background 2_19: -1516454048
+      Space Background 2_2: -516187105
+      Space Background 2_20: 2055331463
+      Space Background 2_21: 1160319776
+      Space Background 2_22: -2145449098
+      Space Background 2_23: -187875811
+      Space Background 2_24: -803265304
+      Space Background 2_3: -696996082
+      Space Background 2_4: 738711913
+      Space Background 2_5: 1308011123
+      Space Background 2_6: 178532096
+      Space Background 2_7: -938416541
+      Space Background 2_8: 1693719982
+      Space Background 2_9: -320047518
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

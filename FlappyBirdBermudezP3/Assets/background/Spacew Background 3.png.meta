@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,7 +134,532 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Spacew Background 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac149a60ecc37c4bbd7de426e1f91b3
+      internalID: 490816294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fcdf742e749c64683c3121fbb79877
+      internalID: 538343622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b30811d7b4d14faed4375da71ccf5
+      internalID: -1875746324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b092dc9b0bd4c40ae213a8e37412a2
+      internalID: -203097194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd50063a67d70b448bb9a8f32d6c134
+      internalID: 1144000228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d284a34e9969114980b30567e165298
+      internalID: 452908555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c73e3240576284e91ae71bef6f866d
+      internalID: -1774753629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73785bebbe1b8ab48a0dfb526450782c
+      internalID: -1302026578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9896f1f9c4bc4283882b8e5aef47c
+      internalID: 1075027314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 57.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06d85afefb6cbc4b8105f57adec02bd
+      internalID: 1791137124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade67a445ffc06478e53fa72161c580
+      internalID: -1320455345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886408cacfd7c4b40b0c6e0934acea1c
+      internalID: 1173538151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8d38c2ce3da8a438bacc96d0aedf10
+      internalID: 549027161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf32222386893ed4baf90487c59aa4fc
+      internalID: 478846236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ef932339867e24fa160a6d7af9fb9b
+      internalID: -754677926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f0044c9383544abf2e0edf8588886
+      internalID: 184625636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81f4d7ac28dbe4db27ed425f99d7c2
+      internalID: 118077481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9088c0d618b0348bd479195ed0b838
+      internalID: 1271267468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6108183eec2511e40a159bee07ed9dd2
+      internalID: -479375616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 19.8
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee364067f5d056418f481b5f0e861c4
+      internalID: -1005960589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb24f8653620845806710e14d43a57
+      internalID: 1508452398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d4789cea4e834b9e311e086811b7c
+      internalID: -1170080713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf99ffb95ee0af4e92fdc066ba54180
+      internalID: 222401884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513aa66a4c05cbb4e84d3b946b5097c3
+      internalID: 2083086565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacew Background 3_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0.79999924
+        width: 19.2
+        height: 19.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc34b618bd31a44a63a44a62abdb2f
+      internalID: 614535160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +670,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spacew Background 3_0: 490816294
+      Spacew Background 3_1: 538343622
+      Spacew Background 3_10: -1320455345
+      Spacew Background 3_11: 1173538151
+      Spacew Background 3_12: 549027161
+      Spacew Background 3_13: 478846236
+      Spacew Background 3_14: -754677926
+      Spacew Background 3_15: 184625636
+      Spacew Background 3_16: 118077481
+      Spacew Background 3_17: 1271267468
+      Spacew Background 3_18: -479375616
+      Spacew Background 3_19: -1005960589
+      Spacew Background 3_2: -1875746324
+      Spacew Background 3_20: 1508452398
+      Spacew Background 3_21: -1170080713
+      Spacew Background 3_22: 222401884
+      Spacew Background 3_23: 2083086565
+      Spacew Background 3_24: 614535160
+      Spacew Background 3_3: -203097194
+      Spacew Background 3_4: 1144000228
+      Spacew Background 3_5: 452908555
+      Spacew Background 3_6: -1774753629
+      Spacew Background 3_7: -1302026578
+      Spacew Background 3_8: 1075027314
+      Spacew Background 3_9: 1791137124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
